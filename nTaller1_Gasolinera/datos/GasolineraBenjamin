@@ -1,0 +1,13 @@
+tipo:Extra:12000:800.0
+tipo:Corriente:10000:150.0
+tipo:Diesel:1500:9000.0
+tipo:Premium:15000:50.0
+surtidor:Martin Riveira:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Matthias Lee:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Isabella Caballero:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Martin Riveira:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+empleado:Ricardo Pena:0
+empleado:Matthias Lee:0
+empleado:Martin Riveira:0
+empleado:Ernesto Perez:0
+empleado:Isabella Caballero:0
